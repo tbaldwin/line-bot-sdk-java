@@ -28,19 +28,19 @@ Deploy this module on Heroku.
 
 Get the Channel access token and Channel secret from the Channel Console.
 
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/line-bot-configuration.png?raw=true">
+<img src="https://github.com/tbaldwin/line-bot-sdk-java/blob/stg/sample-spring-boot-echo/_assets/line-bot-configuration.png?raw=true">
 
 ### Step 2
 
 Tap the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/line/line-bot-sdk-java)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tbaldwin/line-bot-sdk-java)
 
 ### Step 3
 
 Fill in the form and run your instance.
 
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/heroku.png?raw=true">
+<img src="https://github.com/tbaldwin/line-bot-sdk-java/blob/stg/sample-spring-boot-echo/_assets/heroku.png?raw=true">
 
 ### Step 4
 
